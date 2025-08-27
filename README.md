@@ -6,7 +6,7 @@ Each key on the keyboard plays a different drum or snare sound, allowing you to 
 ---
 
 ## 📸 Screenshot
-![Drum_kit](https://github.com/user-attachments/assets/ae959fcb-9bea-494a-a995-ead0a7adb353)
+
 
 ---
 
